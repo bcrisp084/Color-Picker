@@ -1,6 +1,6 @@
 const button = document.querySelector(".button");
 const color = document.querySelector(".color")
-const colors = ["green", "blue", "rgba(133, 122, 200", "#f15025"]
+const colors = ["green", "blue", "purple", "orange", "gray", "pink", "red", "yellow"]
 
 button.addEventListener("click", () => {
     console.log(document.body)
